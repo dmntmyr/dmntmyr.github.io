@@ -1,4 +1,5 @@
 
+
 body {
     background-color: wheat;
     margin: 60px auto;
@@ -43,4 +44,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
